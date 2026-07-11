@@ -13,15 +13,15 @@ A Django web application that replicates core Twitter functionality — user aut
 
 ## Tech Stack
 
-- [Django](https://www.djangoproject.com/) 3.x — web framework
-- Python 3.8+
+- [Django](https://www.djangoproject.com/) 4.2 LTS — web framework
+- Python 3.10+
 - SQLite (default) — database
 - Django Templates — server-side rendering
 - [Poetry](https://python-poetry.org/) — dependency management
 
 ## Prerequisites
 
-- [Python](https://www.python.org/) 3.8+
+- [Python](https://www.python.org/) 3.10+
 - [Poetry](https://python-poetry.org/): `pip install poetry`
 
 ## Getting Started

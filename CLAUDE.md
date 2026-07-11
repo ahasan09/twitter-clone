@@ -1,10 +1,10 @@
 # Twitter Clone
 
-Django 3 Twitter clone with tweet posting, user following/followers, and notifications.
+Django 4.2 LTS Twitter clone with tweet posting, user following/followers, and notifications.
 
 ## Tech Stack
-- Python 3
-- Django 3
+- Python 3.10+
+- Django 4.2 LTS
 - SQLite (default) or PostgreSQL
 - HTML / Django Templates
 
